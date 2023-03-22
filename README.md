@@ -12,4 +12,9 @@ provider "aws" {
   secret_key = " ---Enter Secret Key--  "
 }
 ```
-
+# Some Used Full Command 
+```
+# terraform init
+# terraform plan
+# terraform apply
+```
