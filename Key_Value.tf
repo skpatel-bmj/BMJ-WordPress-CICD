@@ -1,5 +1,7 @@
 # Creates a PEM (and OpenSSH) formatted private key ,Generates a secure private key and encodes
-# Create Private key
+# Create Private key Name 'terraform key'
+
+# RAS Algorithm 
 resource "tls_private_key" "rsa" {
   algorithm = "RSA"
   rsa_bits  = 4096
