@@ -1,4 +1,6 @@
-# data for EC2 instances 
+# data for EC2 instances
+
+# Ubuntu Linux Server 
 data "aws_ami" "ubuntu" {
   most_recent = true
   owners      = ["099720109477"]
