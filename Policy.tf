@@ -27,7 +27,7 @@ EOF
   }
 }
 
-# IAM Policy Creation
+# IAM Policy Create for S3 Bucket
 resource "aws_iam_role_policy" "policy_Ec2" {
   name   = "Ec2_policy"
   role   = aws_iam_role.Ec2_role.id
