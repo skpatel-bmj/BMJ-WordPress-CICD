@@ -2,6 +2,8 @@
 # This GitHub Repository Used For Internal Testing Wordpress Setup CI/CD Pipeline 
 
 ## Terraform provider.tf
+### Before Used This Code Plz Enter the Access key and Secret Key
+
 ```
 # AWS provider Setting Block
 provider "aws" {
