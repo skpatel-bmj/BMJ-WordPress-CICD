@@ -3,7 +3,7 @@
 ## This GitHub Repository Used For Internal Testing Wordpress Setup CI/CD Pipeline 
 ### update and maintain by - Sandeep Kumar Patel(1130)
 
-### Terraform provider.tf
+**Terraform provider.tf**
 ### Before Used This Code Plz Enter the Access key and Secret Key
 
 ```
@@ -14,7 +14,7 @@ provider "aws" {
   secret_key = " ---Enter Secret Key--  "
 }
 ```
-# Some Used Full Command 
+**Some Used Full Command** 
 ```
 # terraform init
 # terraform plan
